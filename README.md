@@ -1,7 +1,7 @@
 <h1 align="center"> Drum Kit </h1>
 
 <p align="center">
-  <img src="https://your-image-url.com" alt="Drum Kit" />
+  <img src="![Alt Text](/path/to/png.jpg)" alt="Drum Kit" />
 </p>
 
 <p align="center">
