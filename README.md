@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://aaeb-simon-game.netlify.app/]">Live Page</a>
+  <a href="https://aaeb-simon-game.netlify.app/">Live Page</a>
 </p>
 
 ## Description
