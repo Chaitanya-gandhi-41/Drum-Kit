@@ -2,7 +2,7 @@
 
 <p align="center">
 ![Demo Image](demo.png) 
-<!--   <img src="![Drum Kit Image](/images/drumkit.jpg))" alt="Drum Kit" /> -->
+  <img src="demo.png" alt="Drum Kit" />
 </p>
 
 <p align="center">
