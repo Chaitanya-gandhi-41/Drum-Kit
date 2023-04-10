@@ -1,7 +1,7 @@
 <h1 align="center"> Drum Kit </h1>
 
 <p align="center">
-![Demo Image](demo.png) 
+
   <img src="demo.png" alt="Drum Kit" />
 </p>
 
