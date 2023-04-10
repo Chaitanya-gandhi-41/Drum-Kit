@@ -1,5 +1,5 @@
 <h1 align="center"> Drum Kit </h1>
-
+![Demo Image](/demo.png)
 <p align="center">
 ![Demo Image](/demo.png)
 <!--   <img src="![Drum Kit Image](/images/drumkit.jpg))" alt="Drum Kit" /> -->
